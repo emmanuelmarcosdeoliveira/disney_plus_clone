@@ -1,0 +1,18 @@
+{
+  "name": "disney_plus_clone",
+  "version": "1.0.0",
+  "description": "Reposit[orio Destinado ao Projeto 4 do Curso de Full-Stack Python da ENBAC",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.67.0"
+  }
+}
