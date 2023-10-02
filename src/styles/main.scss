@@ -3,6 +3,7 @@
 @use "shows";
 @use "plans";
 @use "available-devices";
+@use "faq";
 
 
 @font-face {
@@ -28,14 +29,14 @@ body {
 }
 
 // Mixin
-@mixin title($fonteSize: 40px) {
-  @include text($fonteSize);
+@mixin title($fontSize: 40px) {
+  @include text($fontSize);
   color: variaveis.$corTextoSecundario;
 }
 
-@mixin text($fonteSize: 16px) {
-  font-size: $fonteSize;
-  line-height: $fonteSize + 10px;
+@mixin text($fontSize: 16px) {
+  font-size: $fontSize;
+  line-height: $fontSize + 10px;
   color: variaveis.$corTextoPrincipal;
 }
 
