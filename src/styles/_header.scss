@@ -1,0 +1,61 @@
+@use "variaveis";
+@import "mixin";
+
+.header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  background-color: variaveis.$cordeFundo;
+  transition: background-color 1s ease;
+
+  &--is-hidden {
+    background-color: transparent;
+    transition: background-color 1s ease;
+
+    .header {
+      &__logo,
+      &__links__item:first-child {
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 1s ease;
+      }
+    }
+  }
+
+  &__container {
+    padding: 8px 36px;
+    display: flex;
+    justify-content: space-between;
+    @include device(tablet) {
+      padding: 0;
+    }
+  }
+  &__logo {
+    max-width: 80px;
+    width: 100%;
+    margin: 5px;
+    transition: opacity 1s ease;
+    margin-top: 26px;
+    @include device(tablet) {
+      max-width: 64px;
+      margin-top: 5px;
+          }
+  }
+  &__links {
+    display: flex;
+    &__item {
+      margin: 5px;
+      transition: opacity 1s ease;
+    }
+  }
+  .button {
+    height: 50px;
+    @include device(tablet) {
+      font-size: 13px;
+      padding: 8px 11px;
+      height: 40px;
+      letter-spacing: 0;
+    }
+  }
+}

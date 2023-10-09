@@ -1,0 +1,75 @@
+@use "variaveis";
+@import "mixin";
+
+.faq {
+  padding: 5.6vw;
+
+  h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    @include device(tablet) {
+      font-size: 24px;
+    }
+  }
+
+  &__questions {
+    &__item {
+      background-color: variaveis.$corFaq;
+      margin-bottom: 16px;
+      &__question {
+        color: variaveis.$corWhite;
+        font-size: 20px;
+        padding: 24px;
+        display: block;
+        cursor: pointer;
+        position: relative;
+        @include device (tablet) {
+          font-size: 16px;
+          padding: 20px 50px 20px 10px;
+        }
+        &::after {
+          content: "+";
+          position: absolute;
+          top: 0;
+          right: 24px;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          font-size: 40px;
+        }
+      }
+      &__answer {
+        height: 0px;
+        overflow: hidden;
+        padding: 0 24px;
+        transition: height, 0.5s ease;
+      }
+      &--is-open {
+        .faq__questions__item__question::after {
+          content: "";
+          width: 18px;
+          height: 2px;
+          top: 30px;
+          background-color: variaveis.$corWhite;
+        }
+        .faq__questions__item__answer {
+          height: auto;
+          padding-bottom: 24px;
+          transition: height, 0.5s ease;
+        }
+      }
+    }
+  }
+}
+.faq__questions__item__answer ul li {
+  margin-left: 20px;
+  padding-bottom: 5px;
+  padding-top: 16px;
+  display: flex;
+}
+
+.faq__questions__item__answer ul li:before {
+  content: "\2022";
+  margin: 0 10px;
+  color: variaveis.$corTextoPrincipal;
+}

@@ -1,0 +1,41 @@
+@import "mixin";
+
+.available-devices {
+  padding: 5.6vw;
+  h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    @include device(tablet) {
+      font-size: 24px;
+    }
+  }
+
+  &__list {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    @include device(tablet) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    &__item {
+      text-align: center;
+      @include device(tablet) {
+        &:nth-child(2) {
+          order: -1;
+        }
+      }
+      h4 {
+        margin-top: 20px;
+        margin-bottom: 24px;
+      }
+      li {
+        list-style-type: none;
+      }
+      img {
+        max-width: 100%;
+      }
+    }
+  }
+}
