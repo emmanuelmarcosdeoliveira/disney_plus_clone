@@ -174,7 +174,10 @@
   <!-- Seção Dispositivos Disponíveis -->
   <section class="image-text-section--image-full-width">
     <div>
-      <img src="./dist/images/fundo_rei_leao.png" alt="Rei Leão">
+      <picture>
+        <source media="(max-width: 768px)" srcset="./dist/images/fundo_rei_leao_celular.png">
+        <img src="./dist/images/fundo_rei_leao.png" alt="Rei Leão">
+      </picture>
     </div>
     <div class="image-text-section--image-full-width__text_container">
       <h2 class="title--big">Baixar Filmes e séries</h2>
@@ -348,6 +351,7 @@
       <p class="text--small">® 2023 Disney, Disney+ e The Walt Disney Company. Todos os direitos reservados. Serviço de assinatura paga. Conteúdo sujeito a disponibilidade.
       </p>
       <p class="text--small">Disney+ é um serviço pago, baseado em assinatura e sujeito a termos e condições. O serviço Disney+ é comercializado por The Walt Disney Company (Brasil) Ltda., World Trade Center, Av. Das Nações Unidas, 12.551, 12.555, 12.559, Piso 10, São Paulo/SP – CEP 04578-903, Brasil e CNPJ/M 73.042.962/0004-20</p>
+      <a class="footer__developer" href="https://oliveira-portifolio.vercel.app/" target="_blank">Desenvolvido por Dev-Oliveira</a>
     </div>
   </footer>
   <script src="./src/js/main.js"></script>

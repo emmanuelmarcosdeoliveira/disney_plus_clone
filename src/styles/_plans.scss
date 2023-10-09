@@ -1,3 +1,4 @@
+@import "mixin";
 .plans {
   padding: 5.6vw;
   h2 {
@@ -17,7 +18,12 @@
         background-image: url(../images/fundo_combo_plus.png);
         background-repeat: no-repeat;
         background-size: contain;
-}
+        @include device(tablet) {
+          &:nth-child(2) {
+            order: -1;
+          }
+        }
+       }
       img {
         height: 83px;
       }
@@ -30,5 +36,12 @@
   }
   p {
     text-align: center;
+  }
+}
+
+.button {
+  margin-top: 24px;
+  @include device(tablet) {
+    margin-top: 0px;
   }
 }

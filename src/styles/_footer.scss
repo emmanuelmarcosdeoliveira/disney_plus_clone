@@ -56,6 +56,18 @@
       option {
         color: variaveis.$cordeFundo;
       }
-
+    }
+  }
+  .footer__developer {
+    font-size: 14px;
+    color: variaveis.$corTextoPrincipal;
+    opacity: 50%;
+    text-decoration: none;
+   
+    cursor: pointer;
+    &:hover {
+      transition: 300ms;
+      color: #01C1E1;
+      opacity: 100%;
     }
   }

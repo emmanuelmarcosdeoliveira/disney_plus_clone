@@ -6,6 +6,7 @@
 @use "faq";
 @use "footer";
 @use "header";
+@import "mixin";
 
 
 @font-face {
@@ -46,24 +47,39 @@ body {
 // classes tipográficas
 .text--big {
   @include text(18px);
+  @include device(tablet) {
+    font-size: 15px;
+  }
 }
 
 .text {
   @include text;
+  @include device(tablet) {
+    @include text(14px);
+  }
 }
 
 .text--small {
   @include text(12px);
+  @include device(tablet) {
+    @include text(11px);
+  }
 }
 .title--big {
   @include title(44px);
-}
+  @include device(tablet) {
+    font-size: 26px;
+  }
+ }
 .title {
   @include text;
 }
 
 .title--small {
   @include text(28px);
+  @include device(tablet) {
+    @include title(22px)
+  }
 }
 
 .link-text {
@@ -117,6 +133,9 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
  align-items: center;
+ @include device(tablet) {
+  display: block;
+ } 
    img {
     max-width: 100%;
     display: block;
@@ -142,6 +161,13 @@ body {
       display: flex;
       flex-direction: column;
       justify-content: center;
+      @include device(tablet) {
+        position: relative;
+        left: 0;
+        width: 100%;
+        padding: 5.6vw;
+      }
     }
   }
 }
+
