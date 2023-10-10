@@ -8,25 +8,18 @@
 [Deploy](#%EF%B8%8Fdeploy) |
 [Referências](#-referências-) |
 [Autor](#-autor-) 
-
 </div>
 <br>
-<div>
-<img src="https://img.shields.io/https://github.com/emmanuelmarcosdeoliveira/license/{https://github.com/emmanuelmarcosdeoliveira}/{https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone}.svg"/>
-<img src="https://img.shields.io/github/issues-pr/{emmanuelmarcosdeoliveira}/{disney_plus_clone}.svg"/>
-<img src="https://img.shields.io/github/stars/{emmanuelmarcosdeoliveira}/{disney_plus_clone}.svg"/>
+<img alt="" src="https://img.shields.io/github/repo-size/emmanuelmarcosdeoliveira/disney_plus_clone" />
+<img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/emmanuelmarcosdeoliveira/disney_plus_clone" />
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/emmanuelmarcosdeoliveira/disney_plus_clone" />
+<img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/emmanuelmarcosdeoliveira/disney_plus_clone" />
 
-
-<div>
-
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/emmanuelmarcosdeoliveira/StrapDown.js/commit/)
-[![GitHub forks](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/emmanuelmarcosdeoliveira/StrapDown.js/network/)
-[![GitHub stars](https://img.shields.io/github/stars/emmanuelmarcosdeoliveira/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/emmanuelmarcosdeoliveira/StrapDown.js/stargazers/)
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/emmanuelmarcosdeoliveira/Strapdown.js)](https://github.com/emmanuelmarcosdeoliveira/StrapDown.js/pulls?q=is%3Amerged)
 <br>
-<br>
+
+
+
+
 <div align="center"> 
 <h1 text-align="center"> 🌟Disney+ "Clone"🌟</h1> 
 </div>
@@ -34,13 +27,7 @@
 <h2> ✅ Descrição do Projeto: </h2> 
 <div>
 
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Profile views"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Profile views"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Profile views"/>
-</div>
+
 <br>
 <p align='left' width="400">
    Esse Projeto é um Clone do Site da <a href="https://www.disneyplus.com/pt-br">Disney+</a>, Nesse Projeto utilizei <strong><a href="https://gulpjs.com/">Gulp</a></strong> como principal ferramenta para me auxiliar na construção dessa Landig Page; com o <strong><a href="https://gulpjs.com/">Gulp</a></strong> foi feito a compactação do código JavaScritp e compressão de imagens </p>
@@ -95,13 +82,13 @@
 <h2>🪛Tecnologias Utilizadas </h2>
 </div>
 
-<div align="center">
- <br>
- <br>
- 
-|<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />|<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|HTML5|CSS3|JAVASCRIPT|SASS|GULP|NPM|
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Profile views"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Profile views"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Profile views"/>
+</div>
 
 <br>
 <br>
@@ -139,7 +126,7 @@
 <i>Esse comando faz uma verificação de todas as Dependências necessária para a execução do projeto e faz a instalação dessas dependências para que você possa executar esse projeto.Espere o processo ser concluido.</i>
      
 ```bash
- npm  install
+ npm install
 ```
 </div>
 <br>
@@ -168,8 +155,8 @@ npm run dev
 **Para ter Acesso ao Projeto; clique no link Abaixo:**
 <br>
 <br>
-
- [Diney+ Clone](https://disney-plus-clone-dev-oliveira.vercel.app/)
+[![Disney+](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://oliveira-portifolio.vercel.app/)
+ 
 
 <br>
 
