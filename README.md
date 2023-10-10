@@ -16,7 +16,8 @@
 <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/emmanuelmarcosdeoliveira/disney_plus_clone" />
-</div>
+<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/disney_plus_clone" />
+  </div>
 
 <br>
 
