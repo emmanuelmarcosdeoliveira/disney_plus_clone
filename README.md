@@ -5,7 +5,7 @@
 [Descrição](#--descrição-do-projeto-) |
 [Funcionalidades](#%EF%B8%8F-funcionalidades)|
 [Como executar esse projeto ?](#%EF%B8%8F-como-executar-esse-projeto-) |
-[Deploy](#%EF%B8%8Fdeploy)|
+[Deploy](#%EF%B8%8Fdeploy) |
 [Referências](#-referências-) |
 [Autor](#-autor-) 
 
@@ -43,14 +43,14 @@
 </div>
 <br>
 <p align='left' width="400">
-   Esse Projeto é um Clone do Site da <a href="https://www.disneyplus.com/pt-br">Disney+</a>, Nesse Projeto utilizei <strong><a href="https://gulpjs.com/">Gulp</a></strong> como principal ferramenta para nos auxiliar na construção dessa Landig Page; com o Gulp foi feito a compactação do códigos javascritp e compressão de imagens </p>
+   Esse Projeto é um Clone do Site da <a href="https://www.disneyplus.com/pt-br">Disney+</a>, Nesse Projeto utilizei <strong><a href="https://gulpjs.com/">Gulp</a></strong> como principal ferramenta para me auxiliar na construção dessa Landig Page; com o <strong><a href="https://gulpjs.com/">Gulp</a></strong> foi feito a compactação do código JavaScritp e compressão de imagens </p>
 <br>
 <br>
 <img src="./src/images/disney-nootebook.png" alt="Imagem Notebook"/>
 
 <div align="center">
 <h2> Video 📽️ de Demostração do Projeto</h2>
-https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone/assets/116108389/10c74243-c48f-4ee7-824e-f1b3eb282d09
+
 </div>
 <br>
 <br>
@@ -116,26 +116,26 @@ https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone/assets/116108389/1
 <div align="left" width="300"px>
 
 >1-  **Pré Requisitos:**<br> > **Ter instaldo em seu computador: Caso não tenha segue abaixo os link´s para instalação**<br>
-  -[x] 💾 - [node.js](https://nodejs.org/en)<br>
-> -[x] 💾 - [vs-code](https://code.visualstudio.com/)<br>
+ 💾 - [node.js](https://nodejs.org/en)<br>
+ 💾 - [vs-code](https://code.visualstudio.com/)<br>
 </div>
 <br>
 <div align="left">
 
->2-   **Fazer o \_**Fork**\_ desse projeto para o seu Github.**<br>
+>2-   **Fazer o __Fork__ desse projeto para o seu Github.**<br>
  Caso não saiba o que é isso ou como fazer um fork de um repositório vou deixar umn video aqui com o passo a passo de como fazer o fork de um Repositório do GitHub.
  [Como Fazer Fork no GitHub](https://www.youtube.com/watch?v=q-QTbNu8Ybc) 
 </div>
 <br>
 <div align="left">
 
->3- **Abra esse projeto dentro do seu [VScode](https://code.visualstudio.com/)
+>3- **Abra esse projeto dentro do seu [VScode](https://code.visualstudio.com/)**
     <br>
 </div>
 <br>
 <div align="left">
 
->4-  **Digite o comando dentro do terminal do [VScode](https://code.visualstudio.com/)
+>4-  **Digite o comando dentro do terminal do [VScode](https://code.visualstudio.com/)**
 <i>Esse comando faz uma verificação de todas as Dependências necessária para a execução do projeto e faz a instalação dessas dependências para que você possa executar esse projeto.Espere o processo ser concluido.</i>
      
 ```bash
@@ -145,7 +145,7 @@ https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone/assets/116108389/1
 <br>
 <div align="left">
 
->5- Agora digite o comando para a _execução do Gulp_ dentro do terminal do [VScode](https://code.visualstudio.com/) 
+>5- **Agora digite o comando para a _execução do Gulp_ dentro do terminal do [VScode](https://code.visualstudio.com/)** 
 </h2>
 
 ```bash
@@ -158,12 +158,13 @@ npm run dev
 <div align="left">
 
 >6-  Pronto🏅
- Vocé já tem o projeto dentro do seu github; podendo verificar o código; fazer alterações. etc...
+ **Vocé já tem o projeto dentro do seu github; podendo verificar o código; fazer alterações. etc...**
 
 </div>
 
 <br>
 <h2>🗺️Deploy</h2>
+
 **Para ter Acesso ao Projeto; clique no link Abaixo:**
 <br>
 <br>
