@@ -5,9 +5,9 @@
 [Descrição](#--descrição-do-projeto-) |
 [Funcionalidades](#%EF%B8%8F-funcionalidades)|
 [Como executar esse projeto ?](#%EF%B8%8F-como-executar-esse-projeto-) |
-[Deploy]()|
+[Deploy](#%EF%B8%8Fdeploy)|
 [Referências](#-referências-) |
-[Autor](#-autor-) |
+[Autor](#-autor-) 
 
 </div>
 <br>
@@ -25,17 +25,15 @@
 [![GitHub forks](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/emmanuelmarcosdeoliveira/StrapDown.js/network/)
 [![GitHub stars](https://img.shields.io/github/stars/emmanuelmarcosdeoliveira/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/emmanuelmarcosdeoliveira/StrapDown.js/stargazers/)
 [![GitHub pull-requests merged](https://badgen.net/github/merged-prs/emmanuelmarcosdeoliveira/Strapdown.js)](https://github.com/emmanuelmarcosdeoliveira/StrapDown.js/pulls?q=is%3Amerged)
-
-
-
 <br>
 <br>
-
+<div align="center"> 
+<h1 text-align="center"> 🌟Disney+ "Clone"🌟</h1> 
+</div>
 <div align='center'>
 <h2> ✅ Descrição do Projeto: </h2> 
 <div>
 
-<h1 text-align="center"> 🌟Disney+ "Clone"🌟</h1> 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Profile views"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Profile views"/>
@@ -48,11 +46,11 @@
    Esse Projeto é um Clone do Site da <a href="https://www.disneyplus.com/pt-br">Disney+</a>, Nesse Projeto utilizei <strong><a href="https://gulpjs.com/">Gulp</a></strong> como principal ferramenta para nos auxiliar na construção dessa Landig Page; com o Gulp foi feito a compactação do códigos javascritp e compressão de imagens </p>
 <br>
 <br>
-<img src="./dist/images/disney-nootebook.png" alt="Profile views"/>
+<img src="./src/images/disney-nootebook.png" alt="Imagem Notebook"/>
 
 <div align="center">
 <h2> Video 📽️ de Demostração do Projeto</h2>
-
+https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone/assets/116108389/10c74243-c48f-4ee7-824e-f1b3eb282d09
 </div>
 <br>
 <br>
@@ -132,8 +130,7 @@
 <div align="left">
 
 >3- **Abra esse projeto dentro do seu [VScode](https://code.visualstudio.com/)
-   <br>
-   <br>
+    <br>
 </div>
 <br>
 <div align="left">
@@ -171,19 +168,19 @@ npm run dev
 <br>
 <br>
 
-> [Diney+ Clone](https://disney-plus-clone-dev-oliveira.vercel.app/)
+ [Diney+ Clone](https://disney-plus-clone-dev-oliveira.vercel.app/)
 
-<br>
 <br>
 
 <div align='center'>
 <h2> 📚Referências </h2>
  </div>
-<br>
-<br>
 <div align="center">
 
-> :memo: **Acesse:** [EBAC](https://ebaconline.com.br/)
+ :memo: **Acesse:** [EBAC](https://ebaconline.com.br/)
+<br>
+<br>
+
 </div>
 <div align='center'>
  <h2>👨🏻‍🦱 Autor </h2>
