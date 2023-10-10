@@ -10,10 +10,12 @@
 [Autor](#-autor-) 
 </div>
 <br>
+<div style="display: inline_block">
 <img alt="" src="https://img.shields.io/github/repo-size/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/emmanuelmarcosdeoliveira/disney_plus_clone" />
+</div>
 
 <br>
 
@@ -23,7 +25,9 @@
 <div align="center"> 
 <h1 text-align="center"> 🌟Disney+ "Clone"🌟</h1> 
 </div>
-<div align='center'>
+<br>
+<br>
+<div align='left'>
 <h2> ✅ Descrição do Projeto: </h2> 
 <div>
 
@@ -37,6 +41,10 @@
 
 <div align="center">
 <h2> Video 📽️ de Demostração do Projeto</h2>
+
+
+https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone/assets/116108389/f9de74c9-eb23-4429-a91d-c4f84c41add2
+
 
 </div>
 <br>
