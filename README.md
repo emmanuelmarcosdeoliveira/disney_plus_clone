@@ -11,6 +11,7 @@
 </div>
 <br>
 <div style="display: inline_block">
+<img alt="Github License" src="https://img.shields.io/github/license/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="" src="https://img.shields.io/github/repo-size/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/emmanuelmarcosdeoliveira/disney_plus_clone" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/emmanuelmarcosdeoliveira/disney_plus_clone" />
@@ -163,7 +164,7 @@ npm run dev
 **Para ter Acesso ao Projeto; clique no link Abaixo:**
 <br>
 <br>
-[![Disney+](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://oliveira-portifolio.vercel.app/)
+[![Disney+](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://disney-plus-clone-dev-oliveira.vercel.app/)
  
 
 <br>
