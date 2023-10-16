@@ -119,9 +119,9 @@ https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone/assets/116108389/f
 <br>
 <div align="left">
 
->2-   **Fazer o __Fork__ desse projeto para o seu Github.**<br>
- Caso não saiba o que é isso ou como fazer um fork de um repositório vou deixar umn video aqui com o passo a passo de como fazer o fork de um Repositório do GitHub.
- [Como Fazer Fork no GitHub](https://www.youtube.com/watch?v=q-QTbNu8Ybc) 
+>2-   **Fazer o __clone do repositório__ deste projeto para o seu computador.**<br>
+ Caso não saiba o que é isso; **como fazer um clone de um Repositório no GitHub** vou deixar umn video aqui do [Willian Justen](https://willianjusten.com.br/) com o passo a passo de como fazer o clone de um Repositório do GitHub.
+ [Como fazer um clone de um repositório no GitHub](https://www.youtube.com/watch?v=WEPB5pDSEIg) 
 </div>
 <br>
 <div align="left">
